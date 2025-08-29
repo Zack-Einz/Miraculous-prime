@@ -8,6 +8,6 @@ repositories {
 }
 
 dependencies {
-    // Usa el framework de extensiones correcto
+    // Framework oficial de extensiones Cloudstream
     implementation("com.github.recloudstream:cloudstream:extensions:master-SNAPSHOT")
 }
