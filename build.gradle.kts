@@ -8,5 +8,6 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.recloudstream:cloudstream:pre-release")
+    // Usa el framework de extensiones correcto
+    implementation("com.github.recloudstream:cloudstream:extensions:master-SNAPSHOT")
 }
